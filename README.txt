@@ -1,1 +1,1 @@
-Number Guess Project
+Number Guess Project - Functions
